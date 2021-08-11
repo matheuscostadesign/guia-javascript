@@ -5,7 +5,7 @@
 
 | Operador     |   Descrição        |
 |:------------:|:------------------:|
-|(==)          |Igual               |
-|(!=)          |Não Igual           |
-|(===)         |Estritamente Igual  |
-|(||)          |OU lógico           |
+|`(==)`          |Igual               |
+|`(!=)`          |Não Igual           |
+|`(===)`         |Estritamente Igual  |
+|`(||)`          |OU lógico           |
