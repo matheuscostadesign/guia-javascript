@@ -3,8 +3,9 @@
 
 ### Expressões e operadores
 
-| Operador     |   Descrição   |
-|:------------:|:-------------:|
-|(==)          |Igual          |
-|(!=)          |Não Igual      |
-|(===)         |Estritamente Igual      |
+| Operador     |   Descrição        |
+|:------------:|:------------------:|
+|(==)          |Igual               |
+|(!=)          |Não Igual           |
+|(===)         |Estritamente Igual  |
+|(||)          |OU lógico           |
